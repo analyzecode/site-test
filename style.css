@@ -52,6 +52,9 @@
     --css-course-bg: rgba(255, 255, 255, 0.2);
     --js-course-bg:rgba(255, 255, 255, 0.2);
     }
+ .banner-blob{
+        display: none;
+    }
 }
 .dark-theme-colors{
     --primary-color: #647DFF;
