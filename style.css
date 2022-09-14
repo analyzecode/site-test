@@ -52,7 +52,7 @@
     --css-course-bg: rgba(255, 255, 255, 0.2);
     --js-course-bg:rgba(255, 255, 255, 0.2);
     }
- .banner-blob{
+    .banner-blob{
         display: none;
     }
 }
